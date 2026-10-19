@@ -63,7 +63,9 @@ This analysis aims to answer key business questions such as:
 - What is the average order value?
 - Which products and categories need further attention?
 
-- ## SQL Analysis
+
+## SQL Analysis
+>>>>>>> e88c965 (Update README with SQL analysis and KPIs)
 
 The project answers the following business questions using MySQL:
 
@@ -98,6 +100,13 @@ The analysis of delivered e-commerce orders produced the following key findings:
 - **Top Products by Category:** Laptop led Electronics, Office Chair led Furniture, and Backpack led Accessories.
 
 ## Key Performance Indicators (KPIs)
+
+- **Total Revenue:** ₹409,800
+- **Average Order Value (AOV):** ₹31,523.08
+- **Top Product Revenue:** ₹195,000
+- **Top Category Revenue:** ₹359,800
+- **Repeat Purchase Customers:** 4 customers placed at least 2 delivered orders.
+
 
 - **Total Revenue:** ₹409,800
 - **Average Order Value (AOV):** ₹31,523.08
