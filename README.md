@@ -65,7 +65,7 @@ This analysis aims to answer key business questions such as:
 
 
 ## SQL Analysis
->>>>>>> e88c965 (Update README with SQL analysis and KPIs)
+
 
 The project answers the following business questions using MySQL:
 
