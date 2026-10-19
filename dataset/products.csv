@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,65000.00
+2,Smartphone,Electronics,30000.00
+3,Headphones,Electronics,2500.00
+4,Keyboard,Electronics,1500.00
+5,Mouse,Electronics,800.00
+6,"Office Chair",Furniture,12000.00
+7,Desk,Furniture,9000.00
+8,Backpack,Accessories,2000.00
+9,"Smart Watch",Electronics,7000.00
+10,"Water Bottle",Accessories,700.00

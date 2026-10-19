@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,status
+1001,101,2026-09-01,Delivered
+1002,102,2026-09-02,Delivered
+1003,103,2026-09-03,Cancelled
+1004,101,2026-09-04,Delivered
+1005,104,2026-09-05,Delivered
+1006,105,2026-09-06,Delivered
+1007,106,2026-09-07,Cancelled
+1008,102,2026-09-08,Delivered
+1009,107,2026-09-09,Delivered
+1010,108,2026-09-10,Delivered
+1011,101,2026-09-11,Delivered
+1012,103,2026-09-12,Delivered
+1013,104,2026-09-13,Delivered
+1014,105,2026-09-14,Delivered
+1015,102,2026-09-15,Delivered
